@@ -11,9 +11,6 @@ h5{
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster', cursive;
 }
-.navlink.active {
-    background-color: #CCEEFF;
-}
 h4{
     padding: 10px;
     margin: 50px;
@@ -21,39 +18,7 @@ h4{
     font-family: 'Dancing Script', cursive;
     font-family: 'Lobster', cursive;
 }
-  
-#v-pills-myself{
-    padding: 5px;
-    margin: 80px;
-}
-#v-pills-study{
-    padding: 5px;
-    margin: 80px;
-}
-#v-pills-hometown{
-    padding: 5px;
-    margin: 80px;
-}
-#v-pills-illness{
-    padding: 5px;
-    margin: 80px;
-}
-#v-pills-future{
-    padding: 5px;
-    margin: 80px;
-}
-#v-pills-tab{
-    font-family: 'Dancing Script', cursive;
-    font-family: 'Lobster', cursive;
-}
-.fa-solid{
-    float: right;
-}
-footer{
-    position: sticky;
-    text-align: center;
-    bottom: 0;
-}
+
 .carousel {
     max-height: 500;
     max-width: 753px;
@@ -80,3 +45,41 @@ footer{
     width: auto;
     height: auto;
   }
+#v-pills-myself{
+    padding: 5px;
+    margin: 80px;
+  
+}
+#v-pills-study{
+    padding: 5px;
+    margin: 80px;
+  
+}
+#v-pills-hometown{
+    padding: 5px;
+    margin: 80px;
+}
+  
+    
+#v-pills-illness{
+   
+    padding: 5px;
+    margin: 80px;
+}
+#v-pills-future{
+    padding: 5px;
+    margin: 80px;
+  
+}
+#v-pills-tab{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+}
+.fa-solid{
+    float: right;
+}
+footer{
+    position: sticky;
+    text-align: left;
+    bottom: 0;
+}
